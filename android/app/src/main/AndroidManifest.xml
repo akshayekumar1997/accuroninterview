@@ -3,7 +3,7 @@
 
     <application
         android:label="accuron"
-        android:name="${applicationName}"
+        android:name="$accuroninterview"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
